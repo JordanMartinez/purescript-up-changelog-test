@@ -10,7 +10,7 @@ Breaking changes:
 
 Bugfixes:
 
-* Entry with spaces in file name (#2 by @JordanMartinez)
+* Entry with spaces in file name and body content (#2 by @JordanMartinez)
 
 Internal:
 
