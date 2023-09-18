@@ -4,3 +4,4 @@ Make edits to this file whenever a PR is submitted/merged. Otherwise, commits ch
 
 Made internal change.
 Made fix change.
+Made breaking change.
